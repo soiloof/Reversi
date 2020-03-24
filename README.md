@@ -7,3 +7,8 @@
 > command
 g++ -o filename Board.cpp Player.cpp HumanPlayer.cpp ComputerPlayer.cpp run.cpp
 ./filename
+
+
+実行画面
+
+![スクリーンショット 2020-03-24 11 26 19](https://user-images.githubusercontent.com/43201733/77381922-5ed01680-6dc2-11ea-83bc-83d6debc721d.png)
